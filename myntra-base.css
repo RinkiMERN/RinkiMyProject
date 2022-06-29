@@ -1,0 +1,19 @@
+@import url('../css/myntra-header.css');
+@import url('../css/myntra-slider.css');
+@import url('../css/myntra-gallery.css');
+@import url('../css/myntra-module.css');
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+@font-face {
+    font-family: "whitney";
+    src: url("../fonts/whitneymedium.otf");
+    /* src: url("https://yoursite.com/css/fonts/CustomFont.woff") format("woff"),
+    url("https://yoursite.com/css/fonts/CustomFont.otf") format("opentype"),
+    url("https://yoursite.com/css/fonts/CustomFont.svg#filename") format("svg"); */
+    }
+body{
+    font-family: Whitney,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+}
